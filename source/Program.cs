@@ -2,7 +2,7 @@
 using System.IO;
 using System.Timers;
 
-namespace StalkerAutoBackup
+namespace AutoBackup
 {
     internal class Program
     {
